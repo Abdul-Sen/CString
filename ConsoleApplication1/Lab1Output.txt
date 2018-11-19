@@ -1,0 +1,4 @@
+Command Line : C:\Users\Seneca CPA\Desktop\Lab 1 4th\ConsoleApplication1\Debug\ConsoleApplication1.exe oop345 dbs301 
+Maximum number of characters stored: 3
+0: oop
+1: dbs
